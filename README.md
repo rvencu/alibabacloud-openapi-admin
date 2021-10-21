@@ -5,4 +5,4 @@ Python notebooks to help with management of Alibaba Cloud nodes administration
 
 2. change various parameters as needed in the last cell
 
-3. edit credential files to add your tokens
+3. edit credentials file to add your tokens
