@@ -1,5 +1,5 @@
 # alibabacloud-openapi-admin
-Python notebooks to help with management of Alibaba Cloud nodes administration
+Python notebooks to help with management of Alibaba Cloud Simple Application Server (SAS) nodes administration
 
 1. make sure to read docs at https://www.alibabacloud.com/help/doc-detail/207286.htm
 
